@@ -1,6 +1,6 @@
 {
     // Sets the colors used within the text area
-	"color_scheme": "Packages/knockdown/Knockdown.tmTheme",
+	"color_scheme": "Packages/Symmetricolor/Symmetricolor.tmTheme",
 
     // Controls auto pairing of quotes, brackets etc
 	"auto_match_enabled": true,
@@ -9,7 +9,7 @@
     // The color and width of the indent guides may be customized by editing
     // the corresponding .tmTheme file, and specifying the colors "guide",
     // "activeGuide" and "stackGuide"
-	"draw_indent_guides": false,
+	"draw_indent_guides": true,
 
     // Valid values are "smooth", "phase", "blink", "wide" and "solid".
 	"caret_style": "wide",
@@ -19,7 +19,7 @@
     // Because of this, setting them here will have no effect: you must set them
     // in your User File Preferences.
 	"font_face": "Consolas",
-	"font_size": 17,
+	"font_size": 12,
 
     // Set to false to hide the gutter altogether
 	"gutter": false,
@@ -40,7 +40,7 @@
 	"line_padding_top": 2,
 
     // Spacing between the gutter and the text
-	"margin": 24,
+	"margin": 14,
 
     // The number of spaces a tab is considered equal to
 	"tab_size": 4,
